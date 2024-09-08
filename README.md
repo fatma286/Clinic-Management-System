@@ -1,4 +1,5 @@
-The project represents a Clinic Management System 
+The project represents a Clinic Management System.
+Written in C Programming language.
 At the beginning of the system it asks the user to choose 
 between admin mode and user mode. 
 In admin mode:
