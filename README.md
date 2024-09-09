@@ -20,6 +20,9 @@ patient reservation.
 4. Cancel reservation: 
 The admin can cancel a reservation by entering the patient ID. This reservation shall be shown again in 
 the available slots window. 
+
+
+
 In user mode:
 There is no password. The system allows the following features: 
 1. View patient's record:
