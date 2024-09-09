@@ -10,7 +10,7 @@ In admin mode, the system shall provide the following features:
 1. Add new patient's record: 
 To add a new patient, the user shall admin shall enter these basic information: name, age, gender and provides an  ID. The ID shall be unique for the user. 
 2. Edit patient's record:
-By entering patient ID the system shall checks if the ID exists, the system shall allow the user to edit the 
+By entering patient ID the system shall check if the ID exists, the system shall allow the user to edit the 
 patient information. If not, the system shall display incorrect ID message. 
 3. Reserve a slot with the doctor:
 By default there are 5 available slots, 2pm to 2:30pm, 2:30pm to 3pm, 3pm to 3:30pm, 4pm to 4:30pm 
